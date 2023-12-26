@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/AbdullahMQarni/Practice-in-React-Basics.git/static/css/main.3bb8ab56.css",
+    "main.js": "/AbdullahMQarni/Practice-in-React-Basics.git/static/js/main.76d2733c.js",
+    "index.html": "/AbdullahMQarni/Practice-in-React-Basics.git/index.html",
+    "main.3bb8ab56.css.map": "/AbdullahMQarni/Practice-in-React-Basics.git/static/css/main.3bb8ab56.css.map",
+    "main.76d2733c.js.map": "/AbdullahMQarni/Practice-in-React-Basics.git/static/js/main.76d2733c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3bb8ab56.css",
+    "static/js/main.76d2733c.js"
+  ]
+}
